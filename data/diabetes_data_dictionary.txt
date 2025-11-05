@@ -1,0 +1,5 @@
+Dataset from Bradley Efron, Trevor Hastie, Iain Johnstone and Robert Tibshirani (2004) “Least Angle Regression,” Annals of Statistics (with discussion), 407-499. 
+
+Eight baseline variables, **age**, **sex**, **body mass index**, **average blood pressure**, **total cholesterol**, **low-density lipoproteins cholesterol**, **high-density lipoproteins cholesterol**, and **blood sugar level** were obtained for each of n = 442 diabetes patients, as well as the response of interest (i.e., outcome), a quantitative measure of disease progression one year after baseline. 
+
+Source URL: https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
